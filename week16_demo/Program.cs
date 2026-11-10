@@ -12,6 +12,7 @@ namespace week16_demo
         static void Main(string[] args)
         {
            Console.WriteLine("Hello World!");
+           Console.WriteLine("This is a demo for week 16");
         }
     }
 }
