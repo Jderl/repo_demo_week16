@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,7 @@ namespace week16_demo
         static void Main(string[] args)
         {
            Console.WriteLine("Hello World!");
+           Console.WriteLine("This is a demo for week 16");
         }
     }
 }
